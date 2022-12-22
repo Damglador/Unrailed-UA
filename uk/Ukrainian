@@ -11,9 +11,9 @@
         <note from="Crowdin" priority="2">
 Button Prompts</note>
       </trans-unit>
-      <trans-unit id="25523" resname="BtnAccept">
+      <trans-unit id="25523" resname="BtnAccept" approved="yes">
         <source>{0} Accept</source>
-        <target state="needs-translation">{0} Accept</target>
+        <target state="final">{0} Прийняти</target>
         <note from="Crowdin" priority="2">BtnAccept
 Menu Legend</note>
       </trans-unit>
