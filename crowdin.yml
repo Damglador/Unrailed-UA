@@ -1,0 +1,6 @@
+targets:
+  - name: Damglador
+    sources:
+      - text.csv
+    file: '%language%'
+    format: xliff
