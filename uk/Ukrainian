@@ -17,9 +17,9 @@ Button Prompts</note>
         <note from="Crowdin" priority="2">BtnAccept
 Menu Legend</note>
       </trans-unit>
-      <trans-unit id="25525" resname="PressBtnToContinue">
+      <trans-unit id="25525" resname="PressBtnToContinue" approved="yes">
         <source>Press {0} to continue!</source>
-        <target state="needs-translation">Press {0} to continue!</target>
+        <target state="final">Натисніть {0}, щоб продовжити!</target>
         <note from="Crowdin" priority="2">PressBtnToContinue
 Special</note>
       </trans-unit>
